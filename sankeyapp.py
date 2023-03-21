@@ -1,6 +1,7 @@
 # importing libraries
 import pandas as pd
 import numpy as np
+import plotly.tools
 import streamlit as st
 
 
