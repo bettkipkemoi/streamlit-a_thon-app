@@ -9,4 +9,4 @@ import streamlit as st
 st.title('Sankey Diagram - Alluvial Plots in R')
 
 # loading dataset
-migration = pd.read_csv('Dataset/migration_nz.csv')
+migration = pd.read_csv('migration_nz.csv')
