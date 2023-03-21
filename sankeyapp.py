@@ -2,7 +2,6 @@
 import pandas as pd
 import numpy as np
 import streamlit as st
-import plotly.figure_factory as ff
 
 
 # add title
